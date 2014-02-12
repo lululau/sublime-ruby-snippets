@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[delete_if do |${1:e}|
+    $0
+end]]></content>
+    <tabTrigger>deli</tabTrigger>
+    <scope>source.ruby</scope>
+    <description>delete_if do |e| .. end</description>
+</snippet>

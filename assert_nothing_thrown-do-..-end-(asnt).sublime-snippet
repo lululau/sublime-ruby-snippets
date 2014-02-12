@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[assert_nothing_thrown do
+    $0
+end]]></content>
+    <tabTrigger>asnt</tabTrigger>
+    <scope>source.ruby</scope>
+    <description>assert_nothing_thrown do .. end</description>
+</snippet>

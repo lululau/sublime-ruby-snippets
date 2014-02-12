@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[find_all do |${1:e}|
+    $0
+end]]></content>
+    <tabTrigger>fina</tabTrigger>
+    <scope>source.ruby</scope>
+    <description>find_all do |e| .. end</description>
+</snippet>

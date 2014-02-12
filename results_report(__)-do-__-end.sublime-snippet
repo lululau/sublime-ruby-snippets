@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[results.report("${1:name}:") do
+    TESTS.times do
+        $0
+    end
+end]]></content>
+    <tabTrigger>rep</tabTrigger>
+    <scope>source.ruby</scope>
+    <description>results.report(..) do .. end</description>
+</snippet>

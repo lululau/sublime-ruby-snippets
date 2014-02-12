@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[each_char do |${1:chr}|
+    $0
+end]]></content>
+    <tabTrigger>eac-</tabTrigger>
+    <scope>source.ruby</scope>
+    <description>each_char do |chr| .. end</description>
+</snippet>

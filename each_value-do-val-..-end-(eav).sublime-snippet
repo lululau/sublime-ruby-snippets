@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[each_value do |${1:val}|
+    $0
+end]]></content>
+    <tabTrigger>eav</tabTrigger>
+    <scope>source.ruby</scope>
+    <description>each_value do |val| .. end</description>
+</snippet>

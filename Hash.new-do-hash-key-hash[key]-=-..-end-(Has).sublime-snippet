@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[Hash.new do |${1:hash}, ${2:key}|
+    ${1:hash}[${2:key}] = $0
+end]]></content>
+    <tabTrigger>Hash</tabTrigger>
+    <scope>source.ruby</scope>
+    <description>Hash.new { |hash, key| hash[key] = .. }</description>
+</snippet>

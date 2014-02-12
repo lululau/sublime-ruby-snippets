@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[min do |a, b|
+    $0
+end]]></content>
+    <tabTrigger>min</tabTrigger>
+    <scope>source.ruby</scope>
+    <description>min do |a, b| .. end</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[all? do |${1:e}|
+    $0
+end]]></content>
+    <tabTrigger>all</tabTrigger>
+    <scope>source.ruby</scope>
+    <description>all? do |e| .. end</description>
+</snippet>

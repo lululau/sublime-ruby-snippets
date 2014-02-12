@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[assert_throws(:${1:expected}) do
+    $0
+end]]></content>
+    <tabTrigger>ast</tabTrigger>
+    <scope>source.ruby</scope>
+    <description>assert_throws(..) do .. end</description>
+</snippet>

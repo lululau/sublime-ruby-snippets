@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[each_slice(${1:2}) do |${2:group}|
+    $0
+end]]></content>
+    <tabTrigger>eas-</tabTrigger>
+    <scope>source.ruby</scope>
+    <description>each_slice(..) do |group| .. end</description>
+</snippet>

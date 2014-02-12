@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[each_pair do |${1:name}, ${2:val}|
+    $0
+end]]></content>
+    <tabTrigger>eap</tabTrigger>
+    <scope>source.ruby</scope>
+    <description>each_pair do |name, val| .. end</description>
+</snippet>

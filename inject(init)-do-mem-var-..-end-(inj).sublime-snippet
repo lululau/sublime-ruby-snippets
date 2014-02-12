@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[inject${1/.+/(/}${1:init}${1/.+/)/} do |${2:mem}, ${3:var}|
+    $0
+end]]></content>
+    <tabTrigger>inj</tabTrigger>
+    <scope>source.ruby</scope>
+    <description>inject(init) do |mem, var| .. end</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[transaction${1/(^.*?\S.*)|.*/(?1:\()/}${1:true}${1/(^.*?\S.*)|.*/(?1:\))/} do
+    $0
+end]]></content>
+    <tabTrigger>tra</tabTrigger>
+    <scope>source.ruby</scope>
+    <description>transaction( .. ) do .. end</description>
+</snippet>

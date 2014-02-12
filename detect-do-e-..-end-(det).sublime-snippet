@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[detect do |${1:e}|
+    $0
+end]]></content>
+    <tabTrigger>det</tabTrigger>
+    <scope>source.ruby</scope>
+    <description>detect do |e| .. end</description>
+</snippet>

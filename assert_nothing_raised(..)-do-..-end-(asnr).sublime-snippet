@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[assert_nothing_raised(${1:Exception}) do
+    $0
+end]]></content>
+    <tabTrigger>asnr</tabTrigger>
+    <scope>source.ruby</scope>
+    <description>assert_nothing_raised(..) do .. end</description>
+</snippet>

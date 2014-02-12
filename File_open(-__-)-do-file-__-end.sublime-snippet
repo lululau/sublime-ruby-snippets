@@ -1,0 +1,8 @@
+<snippet>
+    <contentd><![CDATA[File.open(${1:"${2:path/to/file}"}${3/(^[rwab+]+$)|.*/(?1:, ")/}${3:w}${3/(^[rwab+]+$)|.*/(?1:")/}) do |${4:file}|
+    $0
+end]]></content>
+    <tabTrigger>File</tabTrigger>
+    <scope>source.ruby</scope>
+    <description>File.open("..") do |file| .. end</description>
+</snippet>

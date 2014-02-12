@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[each_line$1 do |${2:line}|
+    $0
+end]]></content>
+    <tabTrigger>eal</tabTrigger>
+    <scope>source.ruby</scope>
+    <description>each_line do |line| .. end</description>
+</snippet>

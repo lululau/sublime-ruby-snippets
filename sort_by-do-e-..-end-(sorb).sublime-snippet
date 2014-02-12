@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[sort_by do |${1:e}|
+    $0
+end]]></content>
+    <tabTrigger>sorb</tabTrigger>
+    <scope>source.ruby</scope>
+    <description>sort_by do |e| .. end</description>
+</snippet>

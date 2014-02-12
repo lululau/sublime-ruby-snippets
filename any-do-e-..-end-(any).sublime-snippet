@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[any? do |${1:e}|
+    $0
+end]]></content>
+    <tabTrigger>any</tabTrigger>
+    <scope>source.ruby</scope>
+    <description>any? do |e| .. end</description>
+</snippet>

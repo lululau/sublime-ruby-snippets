@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[grep(${1:/${2:pattern}/}) do |${3:match}|
+    $0
+end]]></content>
+    <tabTrigger>gre</tabTrigger>
+    <scope>source.ruby</scope>
+    <description>grep(/pattern/) do |match| .. end</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[sort do |a, b|
+    $0
+end]]></content>
+    <tabTrigger>sor</tabTrigger>
+    <scope>source.ruby</scope>
+    <description>sort do |a, b| .. end</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[each_cons(${1:2}) do |${2:group}|
+    $0
+end]]></content>
+    <tabTrigger>eac-</tabTrigger>
+    <scope>source.ruby</scope>
+    <description>each_cons(..) do |group| .. end</description>
+</snippet>

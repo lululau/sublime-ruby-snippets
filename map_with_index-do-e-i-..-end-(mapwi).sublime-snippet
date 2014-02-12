@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[enum_with_index.map do |${1:e}, ${2:i}|
+    $0
+end]]></content>
+    <tabTrigger>mapwi-</tabTrigger>
+    <scope>source.ruby</scope>
+    <description>map_with_index do |e, i| .. end</description>
+</snippet>

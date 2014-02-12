@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[assert_raise(${1:Exception}) do
+    $0
+end]]></content>
+    <tabTrigger>asr</tabTrigger>
+    <scope>source.ruby</scope>
+    <description>assert_raise(..) do .. end</description>
+</snippet>

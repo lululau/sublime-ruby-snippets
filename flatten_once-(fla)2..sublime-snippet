@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[inject(Array.new) do |${1:arr}, ${2:a}|
+    ${1:arr}.push(*${2:a})
+end]]></content>
+    <tabTrigger>flao</tabTrigger>
+    <scope>source.ruby</scope>
+    <description>flatten_once() do .. end</description>
+</snippet>
