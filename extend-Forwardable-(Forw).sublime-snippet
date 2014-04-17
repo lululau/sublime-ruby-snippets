@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[extend Forwardable]]></content>
+	<content><![CDATA[extend Forwardable]]></content>
     <tabTrigger>Forw-</tabTrigger>
     <scope>source.ruby</scope>
     <description>extend Forwardable</description>

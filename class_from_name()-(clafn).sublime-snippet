@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[split("::").inject(Object) { |par, const| par.const_get(const) }]]></content>
+	<content><![CDATA[split("::").inject(Object) { |par, const| par.const_get(const) }]]></content>
     <tabTrigger>clafn</tabTrigger>
     <scope>source.ruby</scope>
     <description>class_from_name()</description>

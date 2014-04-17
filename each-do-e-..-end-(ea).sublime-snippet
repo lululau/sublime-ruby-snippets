@@ -1,6 +1,6 @@
 <snippet>
-    <content><![CDATA[each do |${1:e}|
-    $0
+	<content><![CDATA[each do |${1:e}|
+	$0
 end]]></content>
     <tabTrigger>ea</tabTrigger>
     <scope>source.ruby</scope>

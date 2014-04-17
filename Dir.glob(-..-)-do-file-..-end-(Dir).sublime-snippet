@@ -1,6 +1,6 @@
 <snippet>
-    <content><![CDATA[Dir.glob(${1:"${2:dir/glob/*}"}) do |${3:file}|
-    $0
+	<content><![CDATA[Dir.glob(${1:"${2:dir/glob/*}"}) do |${3:file}|
+	$0
 end]]></content>
     <tabTrigger>Dir</tabTrigger>
     <scope>source.ruby</scope>

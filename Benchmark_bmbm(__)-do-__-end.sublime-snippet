@@ -1,7 +1,7 @@
 <snippet>
-    <content><![CDATA[TESTS = ${1:10_000}
+	<content><![CDATA[TESTS = ${1:10_000}
 Benchmark.bmbm do |results|
-  $0
+$0
 end]]></content>
     <tabTrigger>bm-</tabTrigger>
     <scope>source.ruby</scope>

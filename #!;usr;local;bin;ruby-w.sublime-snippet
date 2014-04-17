@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[#!/usr/bin/env ruby${TM_RUBY_SWITCHES: -wKU}
+	<content><![CDATA[#!/usr/bin/env ruby${TM_RUBY_SWITCHES: -wKU}
 ]]></content>
     <tabTrigger>rb</tabTrigger>
     <scope>source.ruby</scope>

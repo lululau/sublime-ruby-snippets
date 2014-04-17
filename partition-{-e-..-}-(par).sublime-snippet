@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[partition { |${1:e}| $0 }]]></content>
+	<content><![CDATA[partition { |${1:e}| $0 }]]></content>
     <tabTrigger>par</tabTrigger>
     <scope>source.ruby</scope>
     <description>partition { |e| .. }</description>

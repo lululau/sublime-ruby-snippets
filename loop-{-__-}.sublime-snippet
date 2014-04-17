@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[loop { $0 }]]></content>
+	<content><![CDATA[loop { $0 }]]></content>
     <tabTrigger>loo</tabTrigger>
     <scope>source.ruby</scope>
     <description>loop { .. }</description>

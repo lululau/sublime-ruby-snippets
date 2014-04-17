@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[sort_by { rand }]]></content>
+	<content><![CDATA[sort_by { rand }]]></content>
     <tabTrigger>ran</tabTrigger>
     <scope>source.ruby</scope>
     <description>randomize()</description>

@@ -1,6 +1,6 @@
 <snippet>
-    <content><![CDATA[collect do |${1:e}|
-    $0
+	<content><![CDATA[collect do |${1:e}|
+	$0
 end]]></content>
     <tabTrigger>col</tabTrigger>
     <scope>source.ruby</scope>

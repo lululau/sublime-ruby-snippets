@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[require "optparse"
+	<content><![CDATA[require "optparse"
 
 options = {${1::default => "args"}}
 

@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[File.dirname(__FILE__)]]></content>
+	<content><![CDATA[File.dirname(__FILE__)]]></content>
     <tabTrigger>dir</tabTrigger>
     <scope>source.ruby</scope>
     <description>directory()</description>

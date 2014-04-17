@@ -1,6 +1,6 @@
 <snippet>
-    <content><![CDATA[max do |a, b|
-    $0
+	<content><![CDATA[max do |a, b|
+	$0
 end]]></content>
     <tabTrigger>max</tabTrigger>
     <scope>source.ruby</scope>

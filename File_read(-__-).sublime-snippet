@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[File.read(${1:"${2:path/to/file}"})]]></content>
+	<content><![CDATA[File.read(${1:"${2:path/to/file}"})]]></content>
     <tabTrigger>File</tabTrigger>
     <scope>source.ruby</scope>
     <description>File.read("..")</description>

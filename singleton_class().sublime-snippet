@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[class << self; self end]]></content>
+	<content><![CDATA[class << self; self end]]></content>
     <tabTrigger>sinc</tabTrigger>
     <scope>source.ruby</scope>
     <description>singleton_class()</description>

@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[include Comparable
+	<content><![CDATA[include Comparable
 
 def <=>(other)
 	$0

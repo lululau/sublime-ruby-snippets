@@ -1,6 +1,6 @@
 <snippet>
-    <content><![CDATA[File.foreach(${1:"${2:path/to/file}"}) do |${3:line}|
-    $0
+	<content><![CDATA[File.foreach(${1:"${2:path/to/file}"}) do |${3:line}|
+	$0
 end]]></content>
     <tabTrigger>File</tabTrigger>
     <scope>source.ruby</scope>

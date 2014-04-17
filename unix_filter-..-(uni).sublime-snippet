@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[ARGF.each_line$1 { |${2:line}| }]]></content>
+	<content><![CDATA[ARGF.each_line$1 { |${2:line}| }]]></content>
     <tabTrigger>unif</tabTrigger>
     <scope>source.ruby</scope>
     <description>unix_filter { .. }</description>
